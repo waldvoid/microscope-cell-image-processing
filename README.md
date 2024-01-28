@@ -60,4 +60,4 @@ Navigate to the application directory and run python file
 
 `python model.py`
 
-![Spotify Playlist Music Recommendation](https://imgur.com/a/Gd4pyu5g)
+![Microscope Cell Image Processing](https://imgur.com/Q99xg6K)
