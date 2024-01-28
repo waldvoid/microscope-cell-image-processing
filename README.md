@@ -60,4 +60,4 @@ Navigate to the application directory and run python file
 
 `python model.py`
 
-![Microscope Cell Image Processing](https://imgur.com/Q99xg6K)
+![Microscope Cell Image Processing](https://i.imgur.com/Q99xg6K.png)
