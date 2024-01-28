@@ -1,7 +1,7 @@
 
 # Microscope Cell Image Processing
 
-This project utilizes a series of image processing and machine learning techniques to process and analyze cell images.
+This project utilizes a series of image processing techniques to process and analyze microscopic cell images.
 
 ## Overview
 In this project, a cell image is taken and subjected to a series of operations:
